@@ -1,0 +1,4 @@
+.page-num{ list-style: none; margin-top: 10px;}
+.page-num li a{text-decoration: none; color: #fff;}
+.page-num li{float: left; padding: 5px; background:#0099ff; border-radius:5px; margin: 5px; transition: 0.3s;}
+.page-num li:hover{background:#00ccff; transition: 0.3s;}

@@ -1,0 +1,9 @@
+.footer{background:#101010; width:100%; border-top:solid 10px #00cccc; border-bottom:solid 10px #000;
+padding:5px; margin-top:20px; color: #fff;}
+hr{  display: block;
+  -webkit-margin-before: 0.5em;
+  -webkit-margin-after: 0.5em;
+  -webkit-margin-start: auto;
+  -webkit-margin-end: auto;
+  border-style: inset;
+  border-width: 1px;}

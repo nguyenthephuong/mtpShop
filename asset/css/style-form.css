@@ -1,0 +1,29 @@
+.title{
+	font-size: 30px;
+	text-align: center;
+}
+.form{
+	margin-left: 100px; 
+	margin-top: 100px;
+	padding: 20px;
+	border: solid 1px #D3D3D3;
+	width: 80%;
+	background-color: #ECECEC;
+	border-radius: 20px;
+}
+input{
+	width: 200px;
+	padding: 3px;
+	margin: 5px;
+}
+label{
+
+}
+.select{
+	height: 30px;
+}
+.sub{
+	height: 30px;
+	width: 100px;
+	margin: 10px;
+}

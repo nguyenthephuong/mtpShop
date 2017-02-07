@@ -1,0 +1,31 @@
+.input{
+	margin: 20px; margin-left: 0px; 
+	height: 35px;
+	padding: 5px;
+	width: 90%;
+	border: 1px solid #C0BEBE; border-radius: 5px;
+}
+.area{
+	height: 200px;
+}
+.title{
+	padding-bottom: 20px; 
+	border-bottom: 1px solid #C0BEBE;
+}
+.submit{
+	margin: 20px; margin-left: 0px; 
+	height: 40px; line-height: 30px;
+	padding: 5px;
+	width: 90%;
+	border: 1px solid #C0BEBE; border-radius: 5px;
+	background-color: #03AC9A;
+	color: #fff; font-size: 20px;
+}
+.submit:hover{
+	background-color: #16D1AC;
+}
+.err{
+	margin-left: 10px;
+	color:red;
+	margin-bottom: 0px; padding: 0px;
+}

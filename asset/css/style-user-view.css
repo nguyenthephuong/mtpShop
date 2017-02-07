@@ -1,0 +1,17 @@
+label{
+	width: 150px;
+}
+input{
+	margin-bottom: 10px;
+	height: 40px;
+	width: 250px;
+}
+.submit{
+	background-color: #1DA9F2;
+	border: none; border-radius: 5px;
+	color: #fff; font-size: 18px;
+	transition:0.3s;
+}
+.submit:hover{
+	background-color: #35CCFE;
+}

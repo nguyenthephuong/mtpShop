@@ -1,0 +1,40 @@
+table{
+	border: 1px solid #BBBBBB;
+	width: 100%;
+}
+th{
+	border: 1px solid #BBBBBB;
+	padding: 10px;
+	font-size: 18px; font-weight: bold;
+	background-color: #F1F1F1;
+	text-align: center;
+}
+td{
+	border: 1px solid #BBBBBB;
+	padding: 10px;
+	text-align: center;
+}
+td input{
+	width: 50px;
+}
+.cart-control{
+	float: left;
+	margin-left: 5px;
+	margin-top: 10px;
+	height: 40px; line-height: 20px;
+	padding: 10px;
+	border: 1px solid #fff; border-radius:10px;
+	background-color: #343131;
+	color: #fff;
+	font-size: 18px;
+}
+.cart-control:hover{
+	background-color: #03AC9A;
+}
+.submit{
+	width: 180px;
+}
+.sum{
+	font-size: 18px; font-weight: bold;
+	padding-top: 0px;
+}

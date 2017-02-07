@@ -1,0 +1,37 @@
+.status{
+	height: 50px;
+	width: 50px;
+	position: fixed;
+	right: 0px;
+	top: 250px;
+	color: #fff;
+	text-align: center; line-height: 50px;
+	font-size: 30px;
+	-webkit-animation: status 0.5s infinite alternate;
+}
+.status li{
+	display: none;
+}
+.status:hover{
+	background-color: #0EB1F5;
+	width: 180px;
+	-webkit-animation: status none;
+
+}
+.status:hover li{
+	display: block;
+	background-color:#03AC9A;
+	font-size: 16px;
+	float: left;
+	border-right: 1px solid #fff; 
+	padding-right: 18px;
+	padding-left: 20px;
+	box-shadow: 5px 5px 15px #545353;
+}
+
+@-webkit-keyframes status
+{
+   from { background-color: #0EB1F5;  height: 50px;}
+   /*25%  { background-color: #19EFBA;  height: 50px;}*/
+   to   { background-color: #0EF5E7;  height: 55px; width: 60px; line-height: 55px;}
+}

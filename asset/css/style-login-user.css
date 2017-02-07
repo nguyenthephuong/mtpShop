@@ -1,0 +1,17 @@
+body{ background-image: url(../images/bg-login.jpg);}
+.main{height: auto; width: 960px; margin: auto;}
+.bg-login{background-color:#fff; height:700px; width:100%; padding-top: 10px;}
+.txtbox{ margin: 10px; width:93%; height: 40px; padding: 3px;
+border-radius:5px;}
+.submit{width: 93%; height: 40px; background-color:#1096ff; margin: 10px; margin-bottom: 50px;
+border: none; border-radius:5px; font-size: 20px; color: #fff;}
+.registor{width: 93%; height: 40px; background-color:#ff4f2b; margin: 10px; font-variant:small-caps;
+border: none; border-radius:5px; font-size: 28px; color: #fff;}
+.err{color: red;}
+.submit:hover{background-color:#00c3ff;}
+.registor:hover{background-color:#f88726;;}
+.nameteam{font-variant:small-caps; font-size:24px; color: #333333; font-weight:900;}
+.err{
+	margin-left: 10px;
+	color:red;
+}

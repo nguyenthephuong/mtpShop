@@ -1,0 +1,77 @@
+body{}
+.khauhieu{color: #fff; font-size:24px; font-variant:small-caps;}
+.khauhieu:hover{color:#08F88A;}
+.panel-dark{ padding: 10px; margin-top: 20px; font-size: 18px; background-color:#03AC9A; border: 2px solid #03AC9A;
+border-top-left-radius:5px;border-top-right-radius:5px;}
+.panel-dark-body{padding: 0px; border: 0px solid #03AC9A; border-top:none;}
+.panel-dark-body2{padding: 10px; border: none;}
+.panel-bg{background-color: #E9E9E9}
+.menu-watch li a{text-decoration: none; color: #404040; font-size:16px;}
+.menu-watch li{padding:5px; padding-bottom: 10px; border-bottom: 1px solid #F8F7F7;
+	transition : 0.2s;
+	-webkit-transition: 0.2s; cursor: pointer;
+	-moz-transition: 0.2s;
+	-o-transition: 0.2s;
+}
+.menu-watch li:hover{background:#03AC9A; color: #fff; 
+	-webkit-transition: 0.2s;
+	-moz-transition: 0.2s;
+	-o-transition: 0.2s;
+}
+.menu-watch li:hover a{color: #fff; 
+	-webkit-transition: 0.1s;
+	-moz-transition: 0.1s;
+	-o-transition: 0.1s;
+}
+.menu-watch li ul{
+	display: none;
+	-webkit-transition: 0.5s;
+	-moz-transition: 0.5s;
+	-o-transition: 0.5s;
+}
+.menu-watch li:hover ul{display: block; position: inherit;  
+	-webkit-transition: 0.5s;
+	-moz-transition: 0.5s;
+	-o-transition: 0.5s;
+}
+.menu-watch li ul li{ padding-left: 20px;}
+.menu-watch li ul li:hover{background:#2DE7DC;}
+
+
+
+.footer{background:#101010; width:100%; border-top:solid 10px red; border-bottom:solid 10px #000;
+padding:5px; margin-top:20px;}
+.color-caption{color: #03AC9A; font-weight: bold;}
+
+.panel-news{ padding: 5px; margin-top: 20px; font-size: 18px; border-bottom: 2px solid #FA0606;
+	color: #404040;
+}
+.panel-news-body{padding: 10px;}
+.menu-news li a{text-decoration: none; color: #404040; font-weight:bold;}
+.box1{
+	height: 80px; width: 190px;
+	margin-top: 50px; padding: 5px;
+	border-radius: 10px;
+	background-color: #F68C22;
+	color:#fff;
+	line-height: 70px; font-size: 24px; text-align: center;
+}
+.box2{
+	height: 80px; width: 190px;
+	margin-top: 50px; padding: 5px;
+	border-radius: 10px;
+	background-color: #F68C22;
+	color:#fff;
+	font-size: 24px; text-align: center;
+}
+.box3{
+	height: 80px; width: 190px;
+	margin-top: 50px; padding: 5px;
+	border-radius: 10px;
+	background-color: #F68C22;
+	color:#fff;
+	font-size: 24px; text-align: center;
+}
+.box1:hover{ background-color:#FAA24B;}
+.box2:hover{ background-color:#FAA24B;}
+.box3:hover{ background-color:#FAA24B;}
